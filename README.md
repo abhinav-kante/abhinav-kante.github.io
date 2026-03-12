@@ -36,7 +36,7 @@ Visit my portfolio here:
 (Add screenshots of your portfolio here)
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/abhinav-kante-53678b254/
+- LinkedIn: https://www.linkedin.com/in/abhinav-kante/
 - GitHub: https://github.com/abhinav-kante
 
 ## ⭐ Support
