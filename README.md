@@ -29,11 +29,12 @@ I enjoy solving problems and continuously learning new technologies.
 - Other development projects
 
 ## 🔗 Live Demo
-Visit my portfolio here:  
+Visit my portfolio here: 
 👉  abhinav-kante.github.io
 
 ## 📸 Screenshots
-(Add screenshots of your portfolio here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d5058620-b022-4b17-99c8-5c603d226af2" />
+
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/abhinav-kante/
